@@ -1,2 +1,2 @@
 # HR_ANALYTICS_DASHBORD
-Developed and managed an HR Analytics Dashboard to analyze employee performance and provide data-driven insights for workforce optimization.
+Developed and Managed an HR Analytics Dashboard to analyze employee performance and provide data-driven insights for workforce optimization.
